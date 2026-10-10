@@ -12,7 +12,7 @@ Flags show where the company or project is based: 🇪🇺 community project, �
 | Cloud (enterprise / sovereign) | AWS, Microsoft Azure | [IONOS Cloud](https://cloud.ionos.com) 🇩🇪, [STACKIT](https://www.stackit.de) 🇩🇪, [Exoscale](https://www.exoscale.com) 🇨🇭 |
 | CDN / DNS / edge | Cloudflare, Akamai, Amazon CloudFront | [Bunny.net](https://bunny.net) 🇸🇮, [Gcore](https://gcore.com) 🇱🇺 |
 | Web hosting | GoDaddy, Bluehost | [Hostinger](https://www.hostinger.com) 🇱🇹, [IONOS](https://www.ionos.com) 🇩🇪 |
-| Domain registrar | GoDaddy, Namecheap | [Gandi](https://www.gandi.net) 🇱🇺, [INWX](https://www.inwx.com) 🇩🇪 |
+| Domain registrar | GoDaddy, Namecheap | [Gandi](https://www.gandi.net) 🇫🇷, [INWX](https://www.inwx.com) 🇩🇪 |
 
 ## Platforms
 
